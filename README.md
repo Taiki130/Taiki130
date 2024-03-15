@@ -8,6 +8,7 @@ Greetings! 👋 I'm an engineer primarily focused on infrastructure and SRE task
 - CI/CD: GitHub Actions, CodeBuild
 - Monitoring: DataDog, Mackerel
 - Framework: Rails
+- Database: MySQL, Redis
 
 ## 📊 Current Status
 <p align="left"> 
