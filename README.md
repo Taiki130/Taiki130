@@ -2,7 +2,7 @@ Greetings! 👋 I'm an engineer primarily focused on infrastructure and SRE task
 
 ## 🛠️ Tech Stack
 - Languages: Go, Shellscript
-0 Infrastructure as Code: Terraform, OpenTofu, Terragrunt
+- Infrastructure as Code: Terraform, OpenTofu, Terragrunt
 - Cloud: AWS
 - Containerization: Docker, Kubernetes
 - CI/CD: GitHub Actions, CodeBuild
