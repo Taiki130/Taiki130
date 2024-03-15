@@ -9,6 +9,7 @@ Greetings! 👋 I'm an engineer primarily focused on infrastructure and SRE task
 - DataDog, Mackerel
 - Rails
 
+## Status
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiki130&layout=compact&theme=dark" />
   <img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=Taiki130&theme=juicyfresh&column=5" />
